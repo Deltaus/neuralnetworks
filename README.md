@@ -1,2 +1,2 @@
-# neutralnetworks
-some implementations of the algorithms and components used in a neutral network
+# neuralnetworks
+some implementations of the algorithms and components used in a neural network
